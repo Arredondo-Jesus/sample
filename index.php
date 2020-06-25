@@ -6,6 +6,6 @@
     <title>Sample</title>
 </head>
 <body>
-    <p>Hello Friends</p>
+    <p>Hi my friends</p>
 </body>
 </html>
